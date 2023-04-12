@@ -43,6 +43,5 @@ According to the results, there is a positivity bias for non-paying members of t
 
 
 #### Grader's Note
-
-
+I was assisted with the code for the last 3 cells of Amazon_Reviews_ETL.ipynb by a Learning Assistant, 'jalhussain'.  
 
